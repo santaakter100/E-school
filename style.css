@@ -1,0 +1,20 @@
+.st{
+    background-color: rgba(185, 234, 236, 0.815);
+}
+
+.card{
+    border:none;
+    box-shadow:  8px 8px 8px rgba(42, 1, 1, 0.89);
+
+}
+.text-body-secondary img {
+width: 20px;
+}
+.man{
+    padding-left: 300px;
+}
+
+.end{
+    background-color: rgba(0, 0, 0, 0.83);
+    color: aliceblue;
+}
